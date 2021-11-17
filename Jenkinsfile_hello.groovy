@@ -1,1 +1,2 @@
 //declarative pipeline
+pipeline
